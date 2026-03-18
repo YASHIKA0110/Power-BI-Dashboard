@@ -16,3 +16,5 @@ This project is a Sales Analysis Dashboard created using Power BI.
 - Country-wise Sales Distribution
 - Profit vs Sales Comparison
 - - Interactive Year Filters
+## Dataset
+The cleaned Dataset of 50k records
